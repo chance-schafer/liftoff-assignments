@@ -7,11 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A web app that helps you find minority owned businesses in the Kansas City area.
 ### Features
-Include Features here
+-Authentication
+-CRUD
 ### Technologies
-Include Technologies here
+- React
+- React-Bootstrap
+- Java
+- MySQL
+- Spring
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
