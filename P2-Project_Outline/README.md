@@ -9,8 +9,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 A web app that helps you find minority owned businesses in the Kansas City area.
 ### Features
--Authentication
--CRUD
+- Authentication
+- CRUD
 ### Technologies
 - React
 - React-Bootstrap
