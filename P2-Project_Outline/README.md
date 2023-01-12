@@ -7,7 +7,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-A web app that helps you find minority owned businesses in the Kansas City area.
+A web app that helps you find minority owned businesses in the Kansas City area. It allows users to create an account/sign-in so they can like and track their favorite businesses as well as allowing business owners to also create accounts in order to add their business to the site. 
+
 ### Features
 - Responsive
 - Accessibility
@@ -15,13 +16,16 @@ A web app that helps you find minority owned businesses in the Kansas City area.
 - Database
 - Testing
 - Log-in
+
 ### Technologies
 - React
 - React-Bootstrap
 - Java
 - MySQL
 - Spring
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Building this application will require improving my skills with React-Bootstrap. Also learning how to implement Authentication and Login capabilities with Spring Security and JWT.
+
 ### Project Tracker
-Link to your Trello board here
+https://deeply-gem-ac0.notion.site/Lift-Off-fde762e39f4045a492b0cf2ba9c5bab7
