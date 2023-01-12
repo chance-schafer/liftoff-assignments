@@ -9,12 +9,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 A web app that helps you find minority owned businesses in the Kansas City area.
 ### Features
-1. Responsive
-2. Accessibility
-3. Form validation (Back and Front end)
-4. Database
-5. Testing
-6. Log-in
+- Responsive
+- Accessibility
+- Form validation (Back and Front end)
+- Database
+- Testing
+- Log-in
 ### Technologies
 - React
 - React-Bootstrap
