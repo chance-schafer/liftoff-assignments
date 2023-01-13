@@ -25,7 +25,7 @@ A web app that helps you find minority owned businesses in the Kansas City area.
 - Spring
 
 ### What I'll Have to Learn
-Building this application will require improving my skills with React-Bootstrap. Also learning how to implement Authentication and Login capabilities with Spring Security and JWT.
+Building this application will require improving skills with React-Bootstrap. Also learning how to implement Authentication and Login capabilities with Spring Security and JWT.
 
 ### Project Tracker
 https://deeply-gem-ac0.notion.site/Lift-Off-fde762e39f4045a492b0cf2ba9c5bab7
