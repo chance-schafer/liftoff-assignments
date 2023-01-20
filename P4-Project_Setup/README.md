@@ -7,4 +7,7 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+Current Project Repositories - (working on transferring to LaunchCode's repo)
+
+Front-End: https://github.com/93Belen/LiftOff-kcb
+Back-End: https://github.com/chance-schafer/liftoff-kcb-backend
